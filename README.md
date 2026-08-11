@@ -13,7 +13,7 @@ This repository contains all the SQL certificates I have earned while learning a
 | Joining Data in SQL | DataCamp | ✅ Completed |
 | Data Manipulation in SQL | DataCamp | ✅ Completed |
 | Exploratory Data Analysis in SQL | DataCamp | ✅ Completed |
-| SQL for Data Analysis | *Add Platform* | ✅ Completed |
+| postgres summary stats and window functions| DataCamp | ✅ Completed |
 
 > More certificates will be added as I continue my SQL learning journey.
 
